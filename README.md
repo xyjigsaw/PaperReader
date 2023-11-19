@@ -2,7 +2,7 @@
 
 A demo of paper reader assistant equipped with ChatGPT OpenAI.
 
-[demo](demo.png)
+![demo](demo.png)
 
 ## Run
 
@@ -11,9 +11,9 @@ pip install -r requirements.txt
 chmod +x ./start.sh
 ./start.sh
  ```
+
 You'll see the server application is running on local machine:
 ```python
-...
 INFO:     Started server process [32431]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
